@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TugasAndroidDicoding_AzkaLailatulHana" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Warna background toolbar -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Menghapus teks di toolbar -->
+        <item name="android:windowActionBar">false</item> <!-- Menonaktifkan ActionBar -->
+        <item name="android:windowNoTitle">true</item> <!-- Menonaktifkan judul di toolbar -->
+
+        <!-- Menambahkan warna teks toolbar -->
+        <item name="android:textColorPrimary">@color/white</item> <!-- Jika Anda masih ingin teks putih (bisa dihapus) -->
+    </style>
+
+    <style name="Theme.TugasAndroidDicoding_AzkaLailatulHana" parent="Base.Theme.TugasAndroidDicoding_AzkaLailatulHana" />
+</resources>
