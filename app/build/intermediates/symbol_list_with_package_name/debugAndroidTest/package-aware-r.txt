@@ -1,0 +1,3 @@
+com.example.tugasandroiddicoding_azkalailatulhana.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

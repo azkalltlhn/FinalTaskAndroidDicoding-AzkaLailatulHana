@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">TugasAndroidDicoding_Azka Lailatul Hana</string>
+    <string name="detail">Detail</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <style name="Base.Theme.TugasAndroidDicoding_AzkaLailatulHana" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+        <item name="android:windowActionBar">false</item> 
+        <item name="android:windowNoTitle">true</item> 
+
+        
+        <item name="android:textColorPrimary">@color/white</item> 
+    </style>
+    <style name="Theme.TugasAndroidDicoding_AzkaLailatulHana" parent="Base.Theme.TugasAndroidDicoding_AzkaLailatulHana"/>
+</resources>

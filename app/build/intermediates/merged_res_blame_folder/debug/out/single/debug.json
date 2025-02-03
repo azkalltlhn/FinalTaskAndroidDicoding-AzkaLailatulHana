@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_bung_tomo.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\bung_tomo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_sukarno.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\sukarno.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_sudirman.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\sudirman.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_foto_azkalailatulhana.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\foto_azkalailatulhana.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_icon_profile1.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\icon_profile1.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_ki_hadjar_dewantara.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\ki_hadjar_dewantara.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_supomo.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\supomo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_banjir_tempo.jpg.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\banjir_tempo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_mie_detikcom.jpeg.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\mie_detikcom.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_icon_profile2.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\icon_profile2.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_minuman_kompas.jpg.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\minuman_kompas.jpg"
+    },
+    {
+        "merged": "com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\layout_item_row_info.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\layout\\item_row_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_ahmad_yani.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\ahmad_yani.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_ahmad_dahlan.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\ahmad_dahlan.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_ashira_zamita.jpg.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\ashira_zamita.jpg"
+    },
+    {
+        "merged": "com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_sty_antara.jpg.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\sty_antara.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tugasandroiddicoding_azkalailatulhana.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_gatot_subroto.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\gatot_subroto.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_icon_profile3.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\icon_profile3.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\menu_profile_menu.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\menu\\profile_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\layout_item_overview.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\layout\\item_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_kebaya.jpg.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\kebaya.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_ekonomi_cnn.jpeg.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\ekonomi_cnn.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_proyektor_pintar.jpeg.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\proyektor_pintar.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_plaza_glodok.jpg.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\plaza_glodok.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_yogyakarta_detiknews.jpeg.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\yogyakarta_detiknews.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\drawable_mohammad_hatta.png.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\drawable\\mohammad_hatta.png"
+    },
+    {
+        "merged": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admins\\.gradle\\daemon\\8.2\\com.example.tugasandroiddicoding_azkalailatulhana.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
