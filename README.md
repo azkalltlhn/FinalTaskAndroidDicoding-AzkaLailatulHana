@@ -10,7 +10,7 @@ Saya membuat artikel dengan 10 jenis artikel yang berbeda diantaranya terdiri da
 2. Kebakaran
 3. Kesehatan mengenai diabetes
 4. Ekonomi mengenai POM bensin shell
-5. Pndidikan dan teknologi mengenai proyektor pintar
+5. Pendidikan dan teknologi mengenai proyektor pintar
 6. Olahraga mengenai artikel Shin Tae Yong
 7. Pariwisata
 8. Kuliner mengenai mie goreng dengan harga Rp 6.000
